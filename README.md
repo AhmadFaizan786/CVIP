@@ -1,2 +1,2 @@
 # CVIP
-This repository contains all the projects which I will  made during the Web Development Internship at Coderscave.
+This is a landing page which I made during my internship at coderscave to submit as my task 1 .
